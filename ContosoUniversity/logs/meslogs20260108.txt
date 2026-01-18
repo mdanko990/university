@@ -1,0 +1,31 @@
+2026-01-08 14:22:33.079 +01:00 [INF] Now listening on: https://localhost:7254
+2026-01-08 14:22:33.112 +01:00 [INF] Now listening on: http://localhost:5091
+2026-01-08 14:22:33.201 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-08 14:22:33.202 +01:00 [INF] Hosting environment: Development
+2026-01-08 14:22:33.202 +01:00 [INF] Content root path: C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity
+2026-01-08 14:22:34.713 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger - null null
+2026-01-08 14:22:34.986 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger - 301 null null 276.5344ms
+2026-01-08 14:22:34.996 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/index.html - null null
+2026-01-08 14:22:35.105 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/index.html - 200 null text/html;charset=utf-8 108.8554ms
+2026-01-08 14:22:35.134 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-08 14:22:35.142 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_framework/aspnetcore-browser-refresh.js - 200 16519 application/javascript; charset=utf-8 7.8687ms
+2026-01-08 14:22:35.143 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/_vs/browserLink - null null
+2026-01-08 14:22:35.219 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/_vs/browserLink - 200 null text/javascript; charset=UTF-8 75.0018ms
+2026-01-08 14:22:35.408 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - null null
+2026-01-08 14:22:35.422 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 14.7155ms
+2026-01-08 14:22:38.857 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tests - null null
+2026-01-08 14:22:38.864 +01:00 [INF] Executing endpoint 'ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity)'
+2026-01-08 14:22:38.892 +01:00 [INF] Route matched with {action = "Get", controller = "Tests"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller ContosoUniversity.Controllers.TestsController (ContosoUniversity).
+2026-01-08 14:22:38.898 +01:00 [INF] Get
+2026-01-08 14:22:38.907 +01:00 [INF] Executing ObjectResult, writing value of type '<>z__ReadOnlyArray`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-08 14:22:38.920 +01:00 [INF] Executed action ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity) in 22.348ms
+2026-01-08 14:22:38.921 +01:00 [INF] Executed endpoint 'ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity)'
+2026-01-08 14:22:38.921 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tests - 200 null application/json; charset=utf-8 64.7261ms
+2026-01-08 14:22:40.873 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7254/api/Tests - null null
+2026-01-08 14:22:40.874 +01:00 [INF] Executing endpoint 'ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity)'
+2026-01-08 14:22:40.875 +01:00 [INF] Route matched with {action = "Get", controller = "Tests"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[System.String] Get() on controller ContosoUniversity.Controllers.TestsController (ContosoUniversity).
+2026-01-08 14:22:40.875 +01:00 [INF] Get
+2026-01-08 14:22:40.876 +01:00 [INF] Executing ObjectResult, writing value of type '<>z__ReadOnlyArray`1[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2026-01-08 14:22:40.876 +01:00 [INF] Executed action ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity) in 1.0454ms
+2026-01-08 14:22:40.876 +01:00 [INF] Executed endpoint 'ContosoUniversity.Controllers.TestsController.Get (ContosoUniversity)'
+2026-01-08 14:22:40.876 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7254/api/Tests - 200 null application/json; charset=utf-8 3.3908ms

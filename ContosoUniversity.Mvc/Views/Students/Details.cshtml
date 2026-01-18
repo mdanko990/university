@@ -1,0 +1,86 @@
+﻿@model ContosoUniversity.Entities.Student
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div class="container">
+    <h4>Student</h4>
+    <hr />
+    <div class="row">
+        <div class="col-lg-6">
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.LastName)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.LastName)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.FirstName)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.FirstName)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.EnrollmentDate)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.EnrollmentDate)
+                </dd>
+                <dd class="col-sm-12">
+                    <image src="@Model.PhotoUri" />
+                </dd>
+            </dl>
+        </div>
+
+        <div class="col-lg-6">
+            <h4>Enrollments</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            Title:
+                        </th>
+                        <th>
+                            Grade:
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.Enrollments)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Course.Title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Grade)
+                            </td>
+                            <td>
+                                <a asp-controller="Enrollments" 
+                                    asp-action="Delete" 
+                                    asp-route-id="@item.Id"
+                                    asp-route-studentid="@item.StudentId">Delete</a>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+            <p>
+                <a asp-controller="Enrollments"
+                   asp-action="Create"
+                   asp-route-id="@Model.Id">Add New Enrollment</a>
+            </p>
+        </div>
+
+    </div>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,11 @@
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\bin\Debug\net8.0\ContosoUniversity.Core.deps.json
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\bin\Debug\net8.0\ContosoUniversity.Core.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\bin\Debug\net8.0\ContosoUniversity.Core.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.AssemblyInfoInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.AssemblyInfo.cs
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.csproj.CoreCompileInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\refint\ContosoUniversity.Core.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ContosoUniversity.Core.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Core\obj\Debug\net8.0\ref\ContosoUniversity.Core.dll

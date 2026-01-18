@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ContosoUniversity\\ContosoUniversity.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ContosoUniversity.Mvc\\ContosoUniversity.Mvc.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

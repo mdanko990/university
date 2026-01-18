@@ -1,0 +1,15 @@
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\bin\Debug\net8.0\ContosoUniversity.Application.deps.json
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\bin\Debug\net8.0\ContosoUniversity.Application.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\bin\Debug\net8.0\ContosoUniversity.Application.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\bin\Debug\net8.0\ContosoUniversity.Core.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\bin\Debug\net8.0\ContosoUniversity.Core.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.csproj.AssemblyReference.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.AssemblyInfoInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.AssemblyInfo.cs
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.csproj.CoreCompileInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoU.4C66ABBB.Up2Date
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\refint\ContosoUniversity.Application.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ContosoUniversity.Application.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Application\obj\Debug\net8.0\ref\ContosoUniversity.Application.dll

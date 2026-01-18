@@ -1,0 +1,15 @@
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\bin\Debug\net8.0\ContosoUniversity.Infrastructure.deps.json
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\bin\Debug\net8.0\ContosoUniversity.Infrastructure.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\bin\Debug\net8.0\ContosoUniversity.Infrastructure.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\bin\Debug\net8.0\ContosoUniversity.Core.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\bin\Debug\net8.0\ContosoUniversity.Core.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.AssemblyInfo.cs
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoU.6570249C.Up2Date
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\refint\ContosoUniversity.Infrastructure.dll
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ContosoUniversity.Infrastructure.pdb
+C:\Users\Myroslava\Documents\projects\learning\PLB.CSharp.ApiWeb\Exercices\a-completer\1.1 API\ContosoUniversity.Infrastructure\obj\Debug\net8.0\ref\ContosoUniversity.Infrastructure.dll
